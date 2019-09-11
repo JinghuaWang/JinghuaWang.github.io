@@ -1,6 +1,6 @@
 ## About Me
 **Jinghua Wang** aka John <br>
-Email: johnjinghuawang@gmail.com<br>
+**Email**: johnjinghuawang@gmail.com<br>
 [Resume](./JinghuaWang 09_19)<br>
 
 Currently open for SDE/PM internship or full time for Summer 2020. 
