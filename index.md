@@ -1,7 +1,7 @@
 ## About Me
 Double major in Economics and Computer Science who intend to cooperate software engineering with product development.<br>
 Currently open for SDE/PM internship or full time for Summer 2020. 
-****
+
 ## Education
 
 ### University of Washington
@@ -10,7 +10,7 @@ Computer Science & Economics,2018-2022
 ### University of California, Berkely
 CS 61A: Structure and Interpretation of Computer Programs, 2017 Summer session <br>
 CS 61A was a challenging and fun course.
-****
+
 ## Experience
 
 ### Software Developer Intern
@@ -28,7 +28,7 @@ July 2018 - Aug, 2018<br>
 - Collected demands from clients, analyzed feedback, designed prototypes, worked with the development team, and led cross-department conference.
 - Specialized in user-friendly design and reformed the dashboard editor module.
 - Assisted project management in task planning, progress tracking, and optimization.
-***
+
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
