@@ -1,5 +1,9 @@
 ## About Me
-Double major in Economics and Computer Science who intend to cooperate software engineering with product development.<br>
+*Jinghua Wang* aka John <br>
+UW CSE && Econ Major<br>
+Emial: johnjinghuawang@gmail.com<br>
+[Resume](./JinghuaWang 09_19)<br>
+
 Currently open for SDE/PM internship or full time for Summer 2020. 
 
 ## Education
