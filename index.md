@@ -1,10 +1,36 @@
-## Welcome to GitHub Pages
+## About Me
+Double major in Economics and Computer Science who intend to cooperate software engineering with product development.
+Currently open for SDE/PM internship or full time for Summer 2020. 
 
-You can use the [editor on GitHub](https://github.com/JinghuaWang/JinghuaWang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### University of Washington
+#### Computer Science & Economics,2018-2022
 
-### Markdown
+### University of California, Berkely
+#### CS 61A: Structure and Interpretation of Computer Programs, 2017 Summer session
+CS 61A was a challenging and fun course.
+
+
+## Experience
+
+### Software Developer Intern
+#### WenChang Education LLC.
+##### Jun,2019 - July, 2019
+- Easy Application is an all-in-one website that guides high school students applying for colleges.
+- Responsible for building a log-analysis system that processes 20 GB of data per day.
+- Improved retention rate with data insights and product development.
+- Worked with the marketing department on presenting the key data to investors. 
+
+### Product Analyst Intern
+#### Sendi Computer System LLC
+##### July 2018 - Aug, 2018
+- Product analyst in data visualization department.
+- Collected demands from clients, analyzed feedback, designed prototypes, worked with the development team, and led cross-department conference.
+- Specialized in user-friendly design and reformed the dashboard editor module.
+- Assisted project management in task planning, progress tracking, and optimization.
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
