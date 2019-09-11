@@ -1,8 +1,8 @@
 ## About Me
 **Jinghua Wang** aka John <br>
-Student at University of Washington
+Student at University of Washington<br>
 Email: johnjinghuawang@gmail.com<br>
-[Resume](./JinghuaWang 09_19.pdf)<br>
+[Resume](JinghuaWang 09_19.pdf)<br>
 
 Currently open for SDE/PM internship or full time for Summer 2020. 
 
