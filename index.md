@@ -39,7 +39,7 @@ July 2018 - Aug 2018<br>
 - Building a backend-server with Node.js and Express framework
 
 ### HuskyShare
-- Develop an online flea market for UW students.
+- Developing an online flea market for UW students.
 - Focus on market analysis, UI/UX design, and web programming
 
 ### Traffic-light Detection App for Blind People
