@@ -1,30 +1,30 @@
 ## About Me
-Double major in Economics and Computer Science who intend to cooperate software engineering with product development.
+Double major in Economics and Computer Science who intend to cooperate software engineering with product development.<br>
 Currently open for SDE/PM internship or full time for Summer 2020. 
 
 ## Education
 
 ### University of Washington
-#### Computer Science & Economics,2018-2022
+Computer Science & Economics,2018-2022
 
 ### University of California, Berkely
-#### CS 61A: Structure and Interpretation of Computer Programs, 2017 Summer session
+CS 61A: Structure and Interpretation of Computer Programs, 2017 Summer session <br>
 CS 61A was a challenging and fun course.
 
 
 ## Experience
 
 ### Software Developer Intern
-#### WenChang Education LLC.
-##### Jun,2019 - July, 2019
+WenChang Education LLC.<br>
+Jun,2019 - July, 2019<br>
 - Easy Application is an all-in-one website that guides high school students applying for colleges.
 - Responsible for building a log-analysis system that processes 20 GB of data per day.
 - Improved retention rate with data insights and product development.
 - Worked with the marketing department on presenting the key data to investors. 
 
 ### Product Analyst Intern
-#### Sendi Computer System LLC
-##### July 2018 - Aug, 2018
+Sendi Computer System LLC <br>
+July 2018 - Aug, 2018<br>
 - Product analyst in data visualization department.
 - Collected demands from clients, analyzed feedback, designed prototypes, worked with the development team, and led cross-department conference.
 - Specialized in user-friendly design and reformed the dashboard editor module.
