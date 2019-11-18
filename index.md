@@ -2,13 +2,13 @@
 **Jinghua Wang** aka John <br>
 Student at University of Washington<br>
 Email: johnjinghuawang@gmail.com<br>
-[Resume](Jinghua Wang SDE.pdf)<br>
+[Resume](Jinghua_Wang_SDE.pdf)<br>
 
 **Currently open for SDE/PM internship or full time for Summer 2020.**
 
 ## Education
 
-### University of Washington
+### University of Washin ton
 **Computer Science & Economics**<br>
 2018 - 2022<br>
 Activities and societies: Unite UW, China Entrepreneur Network UW Research Symposium volunteer
