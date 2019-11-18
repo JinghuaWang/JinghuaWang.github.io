@@ -2,7 +2,7 @@
 **Jinghua Wang** aka John <br>
 Student at University of Washington<br>
 Email: johnjinghuawang@gmail.com<br>
-[Resume](JinghuaWang 09_19.pdf)<br>
+[Resume](Jinghua Wang SDE.pdf)<br>
 
 **Currently open for SDE/PM internship or full time for Summer 2020. **
 
@@ -24,7 +24,7 @@ Jun 2019 - July 2019<br>
 - Easy Application is an all-in-one website that guides high school students applying for colleges.
 - Responsible for building a log-analysis system that processes 20 GB of data per day.
 - Improved retention rate with data insights and product development.
-- Worked with the marketing department on presenting the key data to investors. 
+- Worked with the marketing department on presenting the key data to investors.
 
 ### Product Analyst Intern
 **Sendi Computer System LLC** <br>
@@ -57,7 +57,7 @@ April 2019 - Present
 **Final list**<br>
 - Prototyped a theme-trip module based on Google Exlpore in three hours.
 
-### Microsoft Chinese New Year Celebration 
+### Microsoft Chinese New Year Celebration
 **Volunteer**<br>
 Feb 2019
 - Group Leader of the main assembly room coordinated a group of 20 people.
